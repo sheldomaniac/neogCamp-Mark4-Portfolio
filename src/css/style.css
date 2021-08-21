@@ -76,7 +76,6 @@ header nav{
 
 .heading{
 	font-weight: bold;
-	font-style: italic;
 	
 }
 
@@ -164,6 +163,10 @@ header nav{
 
 .about-fsd{
     color:var(--color4);
+}
+
+ul{
+	list-style: none;
 }
 
 .social-media{
